@@ -1,0 +1,44 @@
+body {
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+
+ul.nav{
+    font-size:13px;
+}
+
+
+
+.jumbotron{
+    background-image: url('../image/backed.jpg');
+    
+    text-align:center;
+    margin: auto;
+    height:100%;
+    display: block;
+    margin: 0 auto;
+    background-position: 56% top;
+    
+    
+    
+    
+
+}
+
+
+ul.nav, .jumbotron h1{
+
+    color:black;
+    font-family: 'Arvo', serif;
+    font-weight:100;
+}
+
+.jumbotron h1{
+    font-size: 60px;
+    margin-top: 208s100px;
+    }
+
+    
+
+}
